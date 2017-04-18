@@ -53,7 +53,7 @@ Note that this requires framing the salary problem as a classification problem d
 
 1. Scrape and prepare your own data.
 
-2. **Create and compare at least two models for each section.**. One of the two models should be a decision tree or ensemble model. The other can be a classifier or regression of your choosing (e.g. Ridge, logistic regression, KNN, SVM, etc).
+2. **Create and compare at least two models for each section**. One of the two models should be a decision tree or ensemble model. The other can be a classifier or regression of your choosing (e.g. Ridge, logistic regression, KNN, SVM, etc).
    - Section 1: Job Salary Trends
    - Section 2: Job Category Factors
 
