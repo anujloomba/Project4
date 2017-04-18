@@ -45,8 +45,6 @@ You may end up making multiple classification models to tackle different questio
 
 Your boss would rather tell a client incorrectly that they would get a lower salary job than tell a client incorrectly that they would get a high salary job. Adjust one of your models to ease his mind, and explain what it is doing and any tradeoffs. Plot the ROC curve.
 
-Note that this requires framing the salary problem as a classification problem detecting low vs. high salary positions.
-
 ---
 
 ## Requirements
@@ -82,6 +80,7 @@ Note that this requires framing the salary problem as a classification problem d
   - Your Boss is interested in what overall features hold the greatest significance.
   - HR is interested in which SKILLS and KEY WORDS hold the greatest significance.   
 4. Author an executive summary that details the highlights of your analysis for a non-technical audience.
+5. If tackling the bonus question, try framing the salary problem as a classification problem detecting low vs. high salary positions.
 
 ---
 
