@@ -96,11 +96,10 @@ Your boss would rather tell a client incorrectly that they would get a lower sal
 
 For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements:** 
 
-   Score | Expectations
-    ----- | ------------
-    **0** | _Does not meet expectations. Try again._
-    **1** | _Meets expectations. Good job._
-    **2** | _Surpasses expectations. Brilliant!_
-
+Score | Expectations
+----- | ------------
+**0** | _Does not meet expectations. Try again._
+**1** | _Meets expectations. Good job._
+**2** | _Surpasses expectations. Brilliant!_
 
 [For more information on how we grade our DSI projects, see our project grading walkthrough.](https://git.generalassemb.ly/dsi-projects/readme/blob/master/README.md)
